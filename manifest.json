@@ -1,6 +1,6 @@
 {
-    "name": "ios_qr",
-    "short_name": "ios_qr",
+    "name": "services_website",
+    "short_name": "services_website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
