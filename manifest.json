@@ -1,11 +1,11 @@
 {
-    "name": "services_website",
-    "short_name": "services_website",
+    "name": "ElectrCare Hub",
+    "short_name": "Best Repair Services",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Best Repair Services",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
